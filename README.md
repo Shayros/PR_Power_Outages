@@ -16,7 +16,8 @@ In 2017, Puerto Rico experienced one of the most devastating hurricanes in its h
 conditions alone.​
 
 - The results point to failures in planning and continued infrastructure
-deterioration. 
+deterioration.
+
 ​
 -Power outages will worsen health disparities, reduce access to care,
 and increase mortality​
