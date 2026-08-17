@@ -20,3 +20,6 @@ deterioration.
 
 - Power outages will worsen health disparities, reduce access to care,
 and increase mortality​
+
+
+*Some results and data have been omitted to preserve opportunities for future publication.* 
