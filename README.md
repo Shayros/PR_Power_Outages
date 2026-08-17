@@ -18,6 +18,5 @@ conditions alone.​
 - The results point to failures in planning and continued infrastructure
 deterioration.
 
-​
- Power outages will worsen health disparities, reduce access to care,
+- Power outages will worsen health disparities, reduce access to care,
 and increase mortality​
