@@ -11,14 +11,12 @@ In 2017, Puerto Rico experienced one of the most devastating hurricanes in its h
 ![](images_outages/results.png)
 
 ### Conclusion
-> [!NOTE]
-> This creates a light blue background banner inside your page.
-> 
-Most Puerto Rico power outages were not explained by weather
+
+- Most Puerto Rico power outages were not explained by weather
 conditions alone.​
 
-The results point to failures in planning and continued infrastructure
+- The results point to failures in planning and continued infrastructure
 deterioration. 
 ​
-Power outages will worsen health disparities, reduce access to care,
+-Power outages will worsen health disparities, reduce access to care,
 and increase mortality​
